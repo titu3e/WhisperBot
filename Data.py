@@ -16,6 +16,7 @@ To see how to Summon me press 'How to Use' below.
 
 By @Sungjinwooarc
     """
+    url=https://telegra.ph/file/6d32667058720d1deff52.jpg
 
     # Home Button
     home_buttons = [
